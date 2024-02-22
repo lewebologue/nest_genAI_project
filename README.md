@@ -6,7 +6,7 @@ This project is fully made with Github Copilot. As a POC, the purpose of this AP
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
