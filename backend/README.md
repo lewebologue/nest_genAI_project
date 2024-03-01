@@ -28,8 +28,15 @@
 
 ## Installation
 
+Create a `.env` file in the root of the project with the following content:
+
+```env
+DATABASE_URL="<your mongo DB connection string>"
+```
+
 ```bash
-$ npm install
+$ npm ci
+$ npx prisma generate
 ```
 
 ## Running the app

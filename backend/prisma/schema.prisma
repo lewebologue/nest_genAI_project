@@ -19,7 +19,7 @@ model User {
   firstName String
   email     String  @unique
   password  String
-  orders    Order[] @map("orders") @relation(references: [id])
+  orders    Order[]
 }
 
 model Order {
