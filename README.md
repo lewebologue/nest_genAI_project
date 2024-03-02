@@ -1,5 +1,5 @@
 ##
-# <div align="center">Sogeti GenAI Project</div>  
+# <div align="center">Nest GenAI Project</div>  
 
 This project is fully made with Github Copilot. As a POC, the purpose of this API is to demontrate that GenAI is turfu.  
 
