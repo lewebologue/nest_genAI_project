@@ -22,7 +22,7 @@ This project is fully made with Github Copilot. As a POC, the purpose of this AP
 
 ## Installation
 
-Create a `.env` file in the root of the project with the following content:
+Create a `.env` file in the backend root of the project with the following content:
 
 ```env
 DATABASE_URL="<your mongo DB connection string>"
